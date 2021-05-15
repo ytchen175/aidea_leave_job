@@ -1,5 +1,5 @@
 # aidea_leave_job
-I am the **top 23% (29/126)** of this competition at private leaderboard.
+I am the **top 5% （ 28 / 467 ）** of this competition at private leaderboard.
 
 ![](img/private_rank.PNG)
 
