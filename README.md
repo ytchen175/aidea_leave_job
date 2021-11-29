@@ -8,6 +8,6 @@ I am the **top 5% （28/467）** of this competition at private leaderboard.
 
 - competition link : [員工離職預測](https://aidea-web.tw/topic/926a5d08-c74f-453c-9e75-bad4586dd271)
 
-- algorithm : catboost
+- model : catboost
 
-- pacakages : rfecv
+- method : feature selection (by rfecv)
